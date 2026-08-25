@@ -1,0 +1,4 @@
+deposit 100
+withdraw 30
+deposit abc
+withdraw 20

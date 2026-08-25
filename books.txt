@@ -1,0 +1,4 @@
+Data Science 101,John Doe,2018
+Python Unleashed,Jane Roe,2014
+Machine Learning,John Doe,2021
+Algo Magic,Jane Roe,2017
